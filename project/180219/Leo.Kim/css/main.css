@@ -1,0 +1,28 @@
+﻿@charset "utf-8";
+/* 집에 가고 싶은가 보다 */
+/* 이걸 작성한 날은 매우 배가 고팠다.*/
+/* 이걸 작성한 날이 바로 잠도 못자고 온 날이다. */
+*{
+    margin:0px;
+    padding:0px;
+}
+h2{
+    color:olivedrab;
+}
+.bluet{
+    color:blue;
+}
+h2,p{
+    text-align: center;
+}
+.boxx{
+    width:640px;
+    margin:0 auto;
+}
+.check{
+    color:white;
+    background:black;
+    padding:10px;
+}
+body {
+}
